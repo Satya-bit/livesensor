@@ -2,8 +2,8 @@ from setuptools import find_packages, setup
 from typing import List  # Import List from typing
 
 def get_requirements() -> List[str]:  # Use List instead of list[str]
-    requirements_list = []
-    return requirements_list
+    requirement_list:List[str]=[]
+    return requirement_list
 
 setup(
     name='sensor',
