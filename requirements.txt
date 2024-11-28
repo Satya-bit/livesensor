@@ -8,4 +8,6 @@ PyYAML
 dill
 scipy
 imblearn==0.0
--e . #editable mode
+xgboost==1.6.2
+lightgbm
+-e . #editable mode. The use of this is that we donot need to run setup.py everytime when we add new packages. It automatically finds it
