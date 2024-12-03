@@ -8,7 +8,7 @@ Advanced Pneumatic Systems (APS) are crucial in truck braking systems, and their
 To build a full-stack data science solution capable of detecting APS failures accurately, leveraging machine learning models and deploying the solution for real-world use.
 
 **->Dataset Description**
-The dataset contained 170 sensor-related features and approximately 36,000 rows of data.
+The dataset contained 175 sensor-related features and approximately 36,100 rows of data.
 It exhibited significant class imbalance, with failure cases being relatively rare compared to non-failure cases.
 The dataset included missing values and outliers that required extensive preprocessing for optimal model performance.
 
@@ -47,24 +47,42 @@ Model Pusher: Automated the process of pushing the trained and validated model t
 
 Database Management: Used MongoDB to store processed data and model metadata.
 
+![image](https://github.com/user-attachments/assets/07282edd-4a3d-463d-9e04-e6c6205cb722)
+
 API Development: Implemented FastAPI for serving the model, allowing real-time predictions.
+
+![image](https://github.com/user-attachments/assets/b4484d33-e8f6-4f05-85ea-cbd9551d8272)
 
 Cloud Deployment: Deployed the solution on AWS using:
 
 GitHub Actions for CI/CD.
 
+![image](https://github.com/user-attachments/assets/b1c64dbe-1b46-4156-8551-284377d276ed)
+
 Amazon ECR for containerized applications.
+
+![image](https://github.com/user-attachments/assets/568fc0dd-bfcf-4511-b012-ed077e74f835)
 
 Amazon S3 for storage of model artifacts.
 
+![image](https://github.com/user-attachments/assets/2c6f2f91-a9d0-4015-8042-2f46cbeb6c0e)
+
 Amazon EC2 for hosting the application.
+
+![image](https://github.com/user-attachments/assets/e36bdb41-7d48-4997-8a31-c9b082ced8ce)
 
 Technologies Used
 
 Data Preprocessing: Pandas, NumPy, Scikit-learn
 
+![image](https://github.com/user-attachments/assets/1ddb0704-38fa-434b-ad55-6a882eaa3d1a)
+![image](https://github.com/user-attachments/assets/064fe0a1-019d-445a-95da-5afcc54be682)
+![image](https://github.com/user-attachments/assets/1a3da765-c503-4d65-a7db-7ff967916396)
+
 
 Machine Learning: LightGBM, SMOTETomek, Optuna
+
+![image](https://github.com/user-attachments/assets/0c2a5dd5-e05f-493e-b9ea-1ec0c14d4910)
 
 API Development: FastAPI
 
