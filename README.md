@@ -72,8 +72,7 @@ Database: MongoDB
 
 Deployment: AWS (GitHub Actions, ECR, S3, EC2)
 
-**->Results
-**
+**->Results**
 Achieved a recall of 0.93 and accuracy of 96%, significantly reducing inspection costs by 40%.
 
 Delivered a scalable, production-ready solution with seamless deployment and real-time inference capabilities.
