@@ -63,4 +63,4 @@ AWS_ECR_LOGIN_URI=566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
 ECR_REPOSITORY_NAME=sensor-fault
 
-MONGO_DB_URL=mongodb+srv://bunnykatiyar986:1234@cluster0.ewsuymh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+MONGO_DB_URL=mongodb+srv://satyashah26102001:uG4PYcQ7Zltj1VFE@cluster0.wttv9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0

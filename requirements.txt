@@ -1,8 +1,13 @@
+dnspython==2.2.1
+evidently==0.1.58.dev0
+fastapi==0.78.0
+httptools==0.5.0
+mypy-boto3-s3==1.24.76
+pip-chill==1.0.1
 pymongo[srv]==4.2.0
 pandas
 numpy
 scikit-learn
-pymongo
 python-dotenv
 PyYAML
 dill
@@ -10,4 +15,10 @@ scipy
 imblearn==0.0
 xgboost==1.6.2
 lightgbm
+types-s3transfer==0.6.0.post4
+uvicorn==0.18.3
+watchfiles==0.17.0
+websockets==10.3
+wincertstore==0.2
+neuro-mf==0.0.5
 -e . #editable mode. The use of this is that we donot need to run setup.py everytime when we add new packages. It automatically finds it
