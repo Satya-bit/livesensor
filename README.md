@@ -1,5 +1,7 @@
 ****APS Failure Detection in Truck Braking Systems****
 
+![image](https://github.com/user-attachments/assets/9d19872f-8f93-4ed8-97bc-6949f1b2a096)
+
 **->Problem Statement**
 
 Advanced Pneumatic Systems (APS) are crucial in truck braking systems, and their failure can lead to significant safety risks and operational downtime. Regular inspections of these systems are expensive and time-consuming for truck owners. The objective of this project was to develop a data-driven solution to reduce inspection costs by 20% while maintaining high recall to ensure safety and minimize false negatives.
