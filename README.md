@@ -1,6 +1,6 @@
 ****APS Failure Detection in Truck Braking Systems****
 
-**The code and data was different in production. This is just for demonstration purpose.**
+**The code and data was different in production that I used at Technostacks. This is just for demonstration purpose.**
 
 ![image](https://github.com/user-attachments/assets/9d19872f-8f93-4ed8-97bc-6949f1b2a096)
 
